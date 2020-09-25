@@ -1,6 +1,6 @@
 ## GraphQL Middleware and Express Server - TypeScript
 
-GraphQL Middleware Test Server, created with 🧘 [Express-GraphQL](https://graphql.org/graphql-js/express-graphql/) and [TypeScript](https://www.typescriptlang.org/).
+GraphQL Middleware Test Server, created with [Express-GraphQL](https://graphql.org/graphql-js/express-graphql/) and [TypeScript](https://www.typescriptlang.org/).
 
 #### Requeriments
 
